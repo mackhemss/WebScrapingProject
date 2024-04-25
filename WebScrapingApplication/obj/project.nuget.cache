@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4KKck5vvwo8TSSvQwJowN8m1v+WNeR1uAGfIRN9UZ2xbUu3Jtw/+i5mu/0l0stczFrqf5eQHhtZXf6/94G8ltw==",
+  "success": true,
+  "projectFilePath": "/Users/hemansimakwana/Projects/WebScrapingApplication/WebScrapingApplication/WebScrapingApplication.csproj",
+  "expectedPackageFiles": [
+    "/Users/hemansimakwana/.nuget/packages/csvhelper/31.0.4/csvhelper.31.0.4.nupkg.sha512",
+    "/Users/hemansimakwana/.nuget/packages/htmlagilitypack/1.11.60/htmlagilitypack.1.11.60.nupkg.sha512",
+    "/Users/hemansimakwana/.nuget/packages/htmlagilitypack.cssselectors.netcore/1.2.1/htmlagilitypack.cssselectors.netcore.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
